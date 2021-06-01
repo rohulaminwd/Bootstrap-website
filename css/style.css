@@ -1,0 +1,40 @@
+
+.container{
+    margin-bottom: 40px;
+}
+.color-bg{
+    background-color: #ddd;
+}
+.carousel-inner{
+    padding: 20px 40px;
+}
+.price{
+color: tomato;
+}
+.buy-button{
+    background-color: aqua;
+    color: darkblue;
+    border-radius: 12px;
+    margin-top: 20px;
+   
+}
+.buy-now-button{
+    background: linear-gradient(to bottom, #ff5898 0%, #ff5898 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 3px 25px;
+    cursor: pointer;
+}
+.button-1{
+    padding: 0 20px;
+    background-color: #ff5898;
+    color: darkblue;
+    border-radius: 5px;
+   
+}
+.cat{
+    background-color: #ff5898;
+    padding: 8px;
+    border-radius: 5px;
+}   
